@@ -1,1 +1,1 @@
-Sample conflict file
+Sample conflict file in feature branch
